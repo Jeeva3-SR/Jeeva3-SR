@@ -1,14 +1,16 @@
 # Hi there, I'm Jeeva 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jeeva-blue?logo=linkedin)](https://www.linkedin.com/in/jeeva003/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhijith-blue?logo=linkedin)](https://www.linkedin.com/in/jeeva003/)
-[![GitHub](https://img.shields.io/badge/GitHub-abhijithm34-black?logo=github)](https://github.com/Jeeva3-SR)
-[![Email](https://img.shields.io/badge/Email-abhijithmeleppat@gmail.com-red?logo=gmail)](mailto:jeeva32227@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Jeeva3-SR-black?logo=github)](https://github.com/Jeeva3-SR)
+
+[![Email](https://img.shields.io/badge/Email-jeeva32227@gmail.com-red?logo=gmail)](mailto:jeeva32227@gmail.com)
 
 ---
 
 ## 🧑‍💻 About Me
-I am a third-year B.E. Computer Science student interested in **Full-stack Development, Machine Learning, and Problem Solving.**
-Experienced in **Java, C++** with **400+** problems solved on **LeetCode.**
+I am a third-year B.E. Computer Science student interested in **Full-stack Development**, **Machine Learning**, and **Problem Solving**.  
+Experienced in **Java** and **C++**, with **400+ problems solved on LeetCode**.
+
 ---
 
 ## 🛠️ Skills
