@@ -1,8 +1,8 @@
 # Hi there, I'm Jeeva 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jeeva-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeeva003/)
-[![GitHub](https://img.shields.io/badge/GitHub-Jeeva3--SR-black?logo=github&logoColor=white)](https://github.com/Jeeva3-SR)
-[![Email](https://img.shields.io/badge/Email-jeeva32227@gmail.com-red?logo=gmail&logoColor=white)](mailto:jeeva32227@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jeeva-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeeva003/)<br>
+[![GitHub](https://img.shields.io/badge/GitHub-Jeeva3--SR-black?logo=github&logoColor=white)](https://github.com/Jeeva3-SR)<br>
+[![Email](https://img.shields.io/badge/Email-jeeva32227@gmail.com-red?logo=gmail&logoColor=white)](mailto:jeeva32227@gmail.com)<br>
 
 ---
 
