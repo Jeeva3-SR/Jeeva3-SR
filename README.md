@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 
 I am a third-year B.E. Computer Science student interested in **Full-stack Development**, **Machine Learning**, and **Problem Solving**.  
-Experienced in **Java** and **C++**, with **400+ problems solved on LeetCode**.
+Experienced in **Java** and **C++**, with **600+ problems solved on LeetCode**.
 
 ---
 
@@ -26,12 +26,11 @@ Experienced in **Java** and **C++**, with **400+ problems solved on LeetCode**.
 ---
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+
 
 ---
 
@@ -44,7 +43,7 @@ Experienced in **Java** and **C++**, with **400+ problems solved on LeetCode**.
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
 
 ---
 
@@ -52,7 +51,7 @@ Experienced in **Java** and **C++**, with **400+ problems solved on LeetCode**.
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white)
+
 
 ---
 
@@ -62,7 +61,6 @@ Experienced in **Java** and **C++**, with **400+ problems solved on LeetCode**.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Render](https://img.shields.io/badge/Render-000000?logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
 
 ---
 
