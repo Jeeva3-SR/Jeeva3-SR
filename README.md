@@ -1,7 +1,7 @@
 # Hi there, I'm Jeeva 
 
 
-I am a third-year B.E. Computer Science student interested in **Full-stack Development**, **Machine Learning**, and **Problem Solving**.  
+I am a pre-final year B.E. Computer Science student at CEG interested in **Full-stack Development**, **Machine Learning**, and **Problem Solving**.  
 Experienced in **Java** and **C++**, with **600+ problems solved on LeetCode**.
 
 ---
