@@ -1,6 +1,5 @@
 # Hi there, I'm Jeeva 
 
-## 🧑‍💻 About Me
 
 I am a third-year B.E. Computer Science student interested in **Full-stack Development**, **Machine Learning**, and **Problem Solving**.  
 Experienced in **Java** and **C++**, with **600+ problems solved on LeetCode**.
@@ -58,7 +57,7 @@ Experienced in **Java** and **C++**, with **600+ problems solved on LeetCode**.
 
 ---
 
-## 📂 Projects
+## Projects
 
 ### 🔹 Void Anonymous Chat
 MERN stack real-time anonymous chat application with nickname login, file sharing, and **Socket.IO-based messaging**.
@@ -70,6 +69,6 @@ Web platform to manage donations and volunteers during crises, featuring **locat
 
 ##  Contact Me
 
-- 📧 Email: **jeeva32227@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/jeeva003
-- 🐙 GitHub: https://github.com/Jeeva3-SR
+- Email: **jeeva32227@gmail.com**
+- LinkedIn: https://linkedin.com/in/jeeva003
+- GitHub: https://github.com/Jeeva3-SR
